@@ -1,0 +1,8 @@
+python: "3.9"
+build_dependencies:
+  - pip
+dependencies:
+  - pip:
+    - scikit-learn
+    - mlflow
+    - numpy>=1.14.3 
